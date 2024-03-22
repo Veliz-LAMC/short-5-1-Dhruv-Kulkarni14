@@ -1,6 +1,5 @@
 html{
 	background-color: yellow;
-	width: 750px;
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -18,17 +17,14 @@ footer {
 h1 {
   font-size: 150%;
   color: blue;
-  margin: 1em 0;
 }
 
 h2 {
   font-size: 125%;
-  margin: 0.75em 0;
 }
 
 h3 {
   font-size: 115%;
-  margin: 0.5em 0;
 }
 p, blockquote, ul, li {
   margin: 1em 0;
