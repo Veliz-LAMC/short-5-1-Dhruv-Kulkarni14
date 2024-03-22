@@ -17,18 +17,14 @@ footer {
 h1 {
   font-size: 150%;
   color: blue;
-  margin-top: 20px;
-  margin-bottom: 0;
 }
 
 h2 {
   font-size: 125%;
-  margin-top: 0;
 }
 
 h3 {
   font-size: 115%;
-  margin-top: 0;
 }
 p, blockquote, ul, li {
   margin: 1em 0;
