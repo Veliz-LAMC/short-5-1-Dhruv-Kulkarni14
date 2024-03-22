@@ -39,6 +39,10 @@ cite {
   color: blue;
   font-style: normal;
 }
+.cite-paragraph {
+  text-align: right;
+  margin-bottom: 0.75em;
+}
 img {
   float: left;
   margin-right: 20px;
