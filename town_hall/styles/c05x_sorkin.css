@@ -29,6 +29,7 @@ h3 {
   padding-top: 0em;
 }
 p, blockquote, ul, li {
+  margin: 1em 0;
   padding-top: 0em;
 }
 cite {
