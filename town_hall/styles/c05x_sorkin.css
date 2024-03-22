@@ -8,3 +8,45 @@ body {
 	margin: 0 auto;
 	border: 10px double blue
 }
+main{
+	padding: 20px;
+}
+footer {
+  border-top: 2px solid blue;
+}
+h1 {
+  font-size: 150%;
+  color: blue;
+  margin: 1em 0;
+}
+
+h2 {
+  font-size: 125%;
+  margin: 0.75em 0;
+}
+
+h3 {
+  font-size: 115%;
+  margin: 0.5em 0;
+}
+p, blockquote, ul, li {
+  margin: 1em 0;
+}
+cite {
+  color: blue;
+  font-style: normal;
+}
+.p-cite {
+  text-align: right;
+  margin-bottom: 0.75em;
+}
+img {
+  float: left;
+  margin-right: 20px;
+}
+footer p {
+  font-size: 90%;
+  font-weight: bold;
+  text-align: center;
+  margin: 1em 0;
+}
