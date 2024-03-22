@@ -1,9 +1,11 @@
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
-	background: yellow;
 	width: 650px;
 	margin-left: auto;
 	margin-right: auto;
 	border: 10px double blue
+}
+main{
+	background: yellow;
 }
