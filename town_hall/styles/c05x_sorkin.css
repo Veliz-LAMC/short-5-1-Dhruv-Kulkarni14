@@ -17,7 +17,7 @@ footer {
 h1 {
   font-size: 150%;
   color: blue;
-  padding-bottom: 0em;
+  margin-bottom: 0em;
 }
 
 h2 {
@@ -29,7 +29,7 @@ h2 {
 h3 {
   font-size: 115%;
   margin-top: 0.5em;
-  margin-bottom: 0;
+  margin-bottom: 0.5em;
 }
 p, blockquote, ul, li {
   margin: 1em 0;
