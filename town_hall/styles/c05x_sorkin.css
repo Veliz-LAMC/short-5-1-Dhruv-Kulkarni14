@@ -32,7 +32,8 @@ h3 {
 }
 p, blockquote, ul, li {
   margin: 1em 0;
-  padding-top: 0em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 cite {
   color: blue;
