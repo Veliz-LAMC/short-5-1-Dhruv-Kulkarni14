@@ -17,6 +17,7 @@ footer {
 h1 {
   font-size: 150%;
   color: blue;
+  padding-bottom: 0.5em;
 }
 
 h2 {
