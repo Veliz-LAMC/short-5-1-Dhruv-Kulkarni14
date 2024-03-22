@@ -23,10 +23,12 @@ h1 {
 
 h2 {
   font-size: 125%;
+   margin-top: 0;
 }
 
 h3 {
   font-size: 115%;
+   margin-top: 0;
 }
 p, blockquote, ul, li {
   margin: 1em 0;
