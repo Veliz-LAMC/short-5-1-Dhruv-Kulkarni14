@@ -7,6 +7,7 @@ body {
 	width: 650px;
 	margin: 0 auto;
 	border: 10px double blue
+	background-color: white;
 }
 main{
 	padding: 20px;
