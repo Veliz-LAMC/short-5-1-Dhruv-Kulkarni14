@@ -7,14 +7,14 @@ body {
     font-size: 100%;
 	width: 650px;
 	margin: 0 auto;
-	border: 10px double blue
+	border: 10px double blue;
 }
 main{
 	padding: 20px;
 }
 footer {
-  padding-left: 20px
-  padding-right: 20px
+  padding-left: 20px;
+  padding-right: 20px;
   border-top: 5px solid blue;
 }
 h1 {
