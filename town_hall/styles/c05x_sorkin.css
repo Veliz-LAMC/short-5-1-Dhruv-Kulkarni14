@@ -13,9 +13,9 @@ main{
 	padding: 20px;
 }
 footer {
-  margin-top: 2em;
   border-top: 5px solid blue;
-  padding-top: .7em;
+  padding-left: 20px;
+  padding-right: 20px
 }
 h1 {
   font-size: 150%;
