@@ -34,7 +34,7 @@ h3 {
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
-p, blockquote, ul, li {
+p, blockquote{
   margin: 1em 0;
   margin-top: 0em;
   margin-bottom: 0em;
